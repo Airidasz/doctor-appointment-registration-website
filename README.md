@@ -13,6 +13,6 @@ This project is an assignment for Kaunas University of Technology module "Comput
 .
 ## Installation
 
-Installation is standard for Laravel version 8.x websites so I suggest you got to the <a href="https://laravel.com/docs/8.x/installation">official</a> setup guide.
+Installation is standard for Laravel version 8.x websites so I suggest you got to the <a href="https://laravel.com/docs/8.x/installation" target="_blank">official</a> setup guide.
 
 ### Screenshots
