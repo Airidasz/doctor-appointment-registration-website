@@ -5,8 +5,8 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Installation](#installation)
-  * [Screenshots](#screenshots)
+* [Installation](#installation)
+* [Screenshots](#screenshots)
 
 ## About The Project
 
