@@ -11,11 +11,11 @@
 
 ## About The Project
 
-This project is an assignment for Kaunas University of Technology module "Computer Networks and Internet Technologies".
+This project is an assignment for Kaunas University of Technology module "Computer Networks and Internet Technologies". <br/>
 Features:
-Patients register an appointment at their selected doctor.
-Administrators register new doctor accounts with their personal information and schedule.
-Doctors see their appointments.
+- Patients register an appointment at their selected doctor.
+- Administrators register new doctor accounts with their personal information and schedule.
+- Doctors see their appointments.
 
 ## Demo
 
@@ -23,9 +23,9 @@ A version of the project is hosted [here](http://az.educationhost.cloud/doc/).
 
  <table>
   <tr>
-    <th>Role</th>
-    <th>Username</th>
-    <th>Password</th>
+      <th><strong><em>Role</em></strong></th>
+    <th><strong><em>Username</em></strong></th>
+    <th><strong><em>Password</em></strong></th>
   </tr>
   <tr>
     <th>Administrator</th>
