@@ -5,13 +5,45 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Demo](#demo)
 * [Installation](#installation)
 * [Screenshots](#screenshots)
 
 ## About The Project
 
 This project is an assignment for Kaunas University of Technology module "Computer Networks and Internet Technologies".
-.
+Features:
+Patients register an appointment at their selected doctor.
+Administrators register new doctor accounts with their personal information and schedule.
+Doctors see their appointments.
+
+## Demo
+
+A version of the project is hosted [here](http://az.educationhost.cloud/doc/).
+
+ <table>
+  <tr>
+    <th>Role</th>
+    <th>Username</th>
+    <th>Password</th>
+  </tr>
+  <tr>
+    <th>Administrator</th>
+    <th>admin@admin</th>
+    <th>password</th>
+  </tr>
+  <tr>
+    <th>Patient</th>
+    <th>patient@patient</th>
+    <th>password</th>
+  </tr>
+     <tr>
+    <th>Doctor</th>
+    <th>doctor@doctor</th>
+    <th>password</th>
+  </tr>
+</table> 
+
 ### Installation
 
 Installation is standard for Laravel version 8.x websites so I suggest you got to the <a href="https://laravel.com/docs/8.x/installation" target="_blank">official</a> setup guide.
